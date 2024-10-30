@@ -1,3 +1,5 @@
+# Countries
+
 | **Country**       | **Capital**         | **Currency**       | **Currency symbol** | **Population** |
 |---------------|-----------------|----------------|-----------------|------------|
 | United States | Washington D.C. | US Dollar      | USD             | 331002651  |
