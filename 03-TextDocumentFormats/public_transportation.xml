@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<public_transportation>
+    <transport>
+        <name>Tram 1</name>
+        <type>Tram</type>
+        <frequency>Every 10 minutes</frequency>
+        <route>Main Square to Nowa Huta</route>
+    </transport>
+    <transport>
+        <name>Bus 100</name>
+        <type>Bus</type>
+        <frequency>Every 15 minutes</frequency>
+        <route>Cracovia Stadium to Wawel Castle</route>
+    </transport>
+    <transport>
+        <name>Bus 124</name>
+        <type>Bus</type>
+        <frequency>Every 20 minutes</frequency>
+        <route>Stare Miasto to Pleszów</route>
+    </transport>
+    <transport>
+        <name>Tram 3</name>
+        <type>Tram</type>
+        <frequency>Every 8 minutes</frequency>
+        <route>Rondo Grunwaldzkie to Salwator</route>
+    </transport>
+    <transport>
+        <name>Bus 179</name>
+        <type>Bus</type>
+        <frequency>Every 30 minutes</frequency>
+        <route>Balice Airport to Dworzec Główny</route>
+    </transport>
+    <transport>
+        <name>Tram 6</name>
+        <type>Tram</type>
+        <frequency>Every 12 minutes</frequency>
+        <route>Łagiewniki to Bieżanów</route>
+    </transport>
+</public_transportation>

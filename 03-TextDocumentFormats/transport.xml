@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<means_of_transport>
+    <transport1>
+        <name>Car</name>
+        <capacity>5</capacity>
+        <stats height="165" weight="1538"/>
+        <v_max>205</v_max>
+    </transport1>
+    <transport2>
+        <name>Tram</name>
+        <capacity>400</capacity>
+        <stats height="360" weight="59000"/>
+        <v_max>80</v_max>
+    </transport2>
+    <transport3>
+        <name>Bike</name>
+        <capacity>1</capacity>
+        <stats height="100" weight="10"/> 
+        <v_max>50</v_max>
+    </transport3>
+</means_of_transport>
