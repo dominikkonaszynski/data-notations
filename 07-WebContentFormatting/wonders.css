@@ -1,0 +1,67 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: darkgray;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+form input, select, textarea {
+     width: 20%;
+     margin-bottom: 10px;
+}
+
+form input {
+    padding: 7px;
+}
+
+input[type='submit'] {
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 20px;
+}
+
+input[type='submit']:hover{
+    background-color: yellow;
+    color: black
+}
+
+a:link {
+    color:green;
+    text-decoration: none;
+}
+
+a:visited {
+    color:red
+}
+
+p:nth-of-type(1), p:nth-of-type(2) {
+    color : darkgreen
+}
+
+p:nth-of-type(3), p:nth-of-type(4) {
+    color: blue
+}
+
+p:nth-of-type(5), p:nth-of-type(6) {
+    color: rgb(66, 65, 65)
+}

@@ -1,5 +1,6 @@
 thead {
-    background-color: darkgreen;
+    background-color: #b4c463;
+    color: black
 }
 
 td {
@@ -11,6 +12,8 @@ table {
     border: 10px solid black;
     border-collapse: collapse;
     border-style: solid;
+    color: white;
+    background-color: #02030c;
 }
 
 th:nth-child(1) {
@@ -19,10 +22,6 @@ th:nth-child(1) {
 
 th:nth-child(4) {
     width: 40%;
-}
-
-table {
-    color: darkblue
 }
 
 tr:hover {
